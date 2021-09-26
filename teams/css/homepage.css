@@ -1,0 +1,27 @@
+.heading{
+    color: rgb(75, 169, 269);
+    text-align: center;
+    padding-top: 5%;
+}
+
+
+.form-select{
+    align-self: center;
+    margin-left: 10%;
+    width: 80%;
+}
+
+
+.container{
+    border: 3px solid gray;
+    border-radius: 8%;
+    display: flex;
+    flex-direction: column;
+    width: 40%;
+    background-color: blue;
+    margin-bottom: 13%;
+}
+
+body{
+    background-color: #E9F6FF;
+}

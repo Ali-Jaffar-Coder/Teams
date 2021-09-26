@@ -1,0 +1,26 @@
+
+
+.btn{
+    margin-left: 60%;
+}
+.datum{
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    margin-top: 5%;
+    
+}
+
+.centerPosition{
+    display: flex;
+    justify-content: center;
+}
+.login{
+    border: 2px solid gray;
+    border-radius: 8%;
+    width: 40%;
+}
